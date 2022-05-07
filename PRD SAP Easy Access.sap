@@ -1,0 +1,14 @@
+[System]
+Name=PRD
+Description=01 [BRF] - SAP ECC Produção -->Logon Automático<---
+Client=110
+[User]
+Name=547058
+Language=PT
+[Function]
+Title=SAP Easy Access
+Command=SESSION_MANAGER
+[Configuration]
+WorkDir=C:\Users\547058\Documents\SAP\SAP GUI
+[Options]
+Reuse=1

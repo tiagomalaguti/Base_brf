@@ -1,0 +1,1734 @@
+
+EXCEL           1c94-2654	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000198B2E96058
+
+EXCEL           1c94-2654	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000198B2E96058 ( 0x0000019893E748F0)
+
+EXCEL           1c94-2654	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000019893E748F0
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+EXCEL           1c94-2654	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000019893E748F0
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+EXCEL           1c94-2654	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000019893E748F0
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+EXCEL           1c94-2654	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000019893E748F0
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+0b515050-465d-4 3570-11b8	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002A9E5326D00
+
+0b515050-465d-4 3570-11b8	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002A9E5326D00 ( 0x000002A9E2F9A650)
+
+0b515050-465d-4 3570-11b8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002A9E2F9A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+0b515050-465d-4 3570-11b8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002A9E2F9A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+0b515050-465d-4 3570-11b8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002A9E2F9A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+0b515050-465d-4 3570-11b8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002A9E2F9A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+bd18861b-a37c-4 3f8c-3888	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000021DDFF86B00
+
+bd18861b-a37c-4 3f8c-3888	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000021DDFF86B00 ( 0x0000021DDD87A650)
+
+bd18861b-a37c-4 3f8c-3888	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000021DDD87A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+bd18861b-a37c-4 3f8c-3888	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000021DDD87A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+bd18861b-a37c-4 3f8c-3888	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000021DDD87A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+bd18861b-a37c-4 3f8c-3888	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000021DDD87A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+55dff673-4439-4 1be8-1f88	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001DF80767598
+
+55dff673-4439-4 1be8-1f88	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001DF80767598 ( 0x000001DFFC8AA930)
+
+55dff673-4439-4 1be8-1f88	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001DFFC8AA930
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+55dff673-4439-4 1be8-1f88	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001DFFC8AA930
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+55dff673-4439-4 1be8-1f88	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001DFFC8AA930
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+55dff673-4439-4 1be8-1f88	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001DFFC8AA930
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dee1094d-ec6c-4 1d0-392c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001F9D13906D0
+
+dee1094d-ec6c-4 1d0-392c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001F9D13906D0 ( 0x000001F9CEFEA650)
+
+dee1094d-ec6c-4 1d0-392c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001F9CEFEA650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dee1094d-ec6c-4 1d0-392c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001F9CEFEA650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dee1094d-ec6c-4 1d0-392c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001F9CEFEA650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dee1094d-ec6c-4 1d0-392c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001F9CEFEA650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+ef1005ac-a277-4 1600-1bd4	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000017C80789718
+
+ef1005ac-a277-4 1600-1bd4	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000017C80789718 ( 0x0000017CFAA0A650)
+
+ef1005ac-a277-4 1600-1bd4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000017CFAA0A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+ef1005ac-a277-4 1600-1bd4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000017CFAA0A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+ef1005ac-a277-4 1600-1bd4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000017CFAA0A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+ef1005ac-a277-4 1600-1bd4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000017CFAA0A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+41195b98-1739-4 3530-35a8	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001CD007D40F8
+
+41195b98-1739-4 3530-35a8	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001CD007D40F8 ( 0x000001CD7250A650)
+
+41195b98-1739-4 3530-35a8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001CD7250A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+41195b98-1739-4 3530-35a8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001CD7250A650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+41195b98-1739-4 3530-35a8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001CD7250A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+41195b98-1739-4 3530-35a8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001CD7250A650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+581e2c5d-a00a-4 1410-3bd4	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000180E83871C8
+
+581e2c5d-a00a-4 1410-3bd4	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000180E83871C8 ( 0x00000180E5BAA650)
+
+581e2c5d-a00a-4 1410-3bd4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000180E5BAA650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+581e2c5d-a00a-4 1410-3bd4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000180E5BAA650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+581e2c5d-a00a-4 1410-3bd4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000180E5BAA650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+581e2c5d-a00a-4 1410-3bd4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000180E5BAA650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+EXCEL           1c94-2f90	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000019893E748F0
+
+EXCEL           1c94-2f90	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000019893E748F0
+
+581e2c5d-a00a-4 1410-5ac	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x00000180E5BAA650
+
+581e2c5d-a00a-4 1410-5ac	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x00000180E5BAA650
+
+41195b98-1739-4 3530-3de0	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001CD7250A650
+
+41195b98-1739-4 3530-3de0	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001CD7250A650
+
+PBIDesktop      2410-3a44	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000202BA6B0D40
+
+PBIDesktop      2410-3a44	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000202BA6B0D40 ( 0x00000202D1D46450)
+
+PBIDesktop      2410-3a44	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000202D1D46450
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+PBIDesktop      2410-3a44	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000202D1D46450
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+PBIDesktop      2410-3a44	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000202D1D46450
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+PBIDesktop      2410-3a44	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000202D1D46450
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Data"           a40-27d4	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000227C22FB0D0
+
+Data"           a40-27d4	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000227C22FB0D0 ( 0x00000227BBE2D650)
+
+Data"           a40-27d4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000227BBE2D650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Data"           a40-27d4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000227BBE2D650
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Data"           a40-27d4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000227BBE2D650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Data"           a40-27d4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000227BBE2D650
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3d88-41f8	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001EBC111E220
+
+Microsoft.Mashu 3d88-41f8	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001EBC111E220 ( 0x000001EBBEEDA750)
+
+Microsoft.Mashu 3d88-41f8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001EBBEEDA750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3d88-41f8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001EBBEEDA750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3d88-41f8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001EBBEEDA750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3d88-41f8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001EBBEEDA750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4088-2278	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001855DA7BCF8
+
+Microsoft.Mashu 4088-2278	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001855DA7BCF8 ( 0x000001855B9BA750)
+
+Microsoft.Mashu 4088-2278	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001855B9BA750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4088-2278	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001855B9BA750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4088-2278	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001855B9BA750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4088-2278	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001855B9BA750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3fb8-1eec	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001C4CB05ADF8
+
+Microsoft.Mashu 3fb8-1eec	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001C4CB05ADF8 ( 0x000001C4C8B0A420)
+
+Microsoft.Mashu 3fb8-1eec	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001C4C8B0A420
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3fb8-1eec	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001C4C8B0A420
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3fb8-1eec	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001C4C8B0A420
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3fb8-1eec	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001C4C8B0A420
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2918-405c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001EC9B663D08
+
+Microsoft.Mashu 2918-405c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001EC9B663D08 ( 0x000001EC994FA470)
+
+Microsoft.Mashu 2918-405c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001EC994FA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2918-405c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001EC994FA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2918-405c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001EC994FA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2918-405c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001EC994FA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4238-2e48	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000028F13129D40
+
+Microsoft.Mashu 4238-2e48	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000028F13129D40 ( 0x0000028F1124A470)
+
+Microsoft.Mashu 4238-2e48	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000028F1124A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4238-2e48	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000028F1124A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4238-2e48	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000028F1124A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 4238-2e48	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000028F1124A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 17dc-411c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000024EDDA4FD18
+
+Microsoft.Mashu 17dc-411c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000024EDDA4FD18 ( 0x0000024EDB9BA470)
+
+Microsoft.Mashu 17dc-411c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000024EDB9BA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 17dc-411c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000024EDB9BA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 17dc-411c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000024EDB9BA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 17dc-411c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000024EDB9BA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1484-40d4	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001CD26CA3D20
+
+Microsoft.Mashu 1484-40d4	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001CD26CA3D20 ( 0x000001CD24C0A470)
+
+Microsoft.Mashu 1484-40d4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001CD24C0A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1484-40d4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001CD24C0A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1484-40d4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001CD24C0A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1484-40d4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001CD24C0A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 419c-23e0	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000015814FE9D28
+
+Microsoft.Mashu 419c-23e0	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000015814FE9D28 ( 0x00000158130FA470)
+
+Microsoft.Mashu 419c-23e0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000158130FA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 419c-23e0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000158130FA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 419c-23e0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000158130FA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 419c-23e0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000158130FA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu d5c-42b4	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002965F5AFD30
+
+Microsoft.Mashu d5c-42b4	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002965F5AFD30 ( 0x000002965D56A470)
+
+Microsoft.Mashu d5c-42b4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002965D56A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu d5c-42b4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002965D56A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu d5c-42b4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002965D56A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu d5c-42b4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002965D56A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2028-3f04	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000029301E53D10
+
+Microsoft.Mashu 2028-3f04	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000029301E53D10 ( 0x000002937FAAA470)
+
+Microsoft.Mashu 2028-3f04	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002937FAAA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2028-3f04	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002937FAAA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2028-3f04	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002937FAAA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2028-3f04	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002937FAAA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3998-3218	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002149F1FA138
+
+Microsoft.Mashu 3998-3218	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002149F1FA138 ( 0x000002149D1CA470)
+
+Microsoft.Mashu 3998-3218	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002149D1CA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3998-3218	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002149D1CA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3998-3218	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002149D1CA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3998-3218	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002149D1CA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3088-904	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002E48623E140
+
+Microsoft.Mashu 3088-904	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002E48623E140 ( 0x000002E4842AA470)
+
+Microsoft.Mashu 3088-904	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002E4842AA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3088-904	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002E4842AA470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3088-904	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002E4842AA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3088-904	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002E4842AA470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1bf8-37f0	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001FB00794B08
+
+Microsoft.Mashu 1bf8-37f0	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001FB00794B08 ( 0x000001FB7CE2A750)
+
+Microsoft.Mashu 1bf8-37f0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001FB7CE2A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1bf8-37f0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001FB7CE2A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1bf8-37f0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001FB7CE2A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1bf8-37f0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001FB7CE2A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1e48-3554	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000207BE814B08
+
+Microsoft.Mashu 1e48-3554	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000207BE814B08 ( 0x00000207BC84A750)
+
+Microsoft.Mashu 1e48-3554	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000207BC84A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1e48-3554	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000207BC84A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1e48-3554	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000207BC84A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1e48-3554	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000207BC84A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 239c-2ed8	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000020BBDB76EA0
+
+Microsoft.Mashu 239c-2ed8	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000020BBDB76EA0 ( 0x0000020BBB9EA700)
+
+Microsoft.Mashu 239c-2ed8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000020BBB9EA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 239c-2ed8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000020BBB9EA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 239c-2ed8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000020BBB9EA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 239c-2ed8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000020BBB9EA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu f5c-2a1c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000140807F2E40
+
+Microsoft.Mashu f5c-2a1c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000140807F2E40 ( 0x00000140F5CDA700)
+
+Microsoft.Mashu f5c-2a1c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000140F5CDA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu f5c-2a1c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000140F5CDA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu f5c-2a1c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000140F5CDA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu f5c-2a1c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000140F5CDA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1640-398c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001F654B92E40
+
+Microsoft.Mashu 1640-398c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001F654B92E40 ( 0x000001F6529DA700)
+
+Microsoft.Mashu 1640-398c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001F6529DA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1640-398c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001F6529DA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1640-398c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001F6529DA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1640-398c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001F6529DA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+PBIDesktop      163c-1928	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000020F213D8868
+
+PBIDesktop      163c-1928	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000020F213D8868 ( 0x0000020F38BB5520)
+
+PBIDesktop      163c-1928	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000020F38BB5520
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+PBIDesktop      163c-1928	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000020F38BB5520
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+PBIDesktop      163c-1928	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000020F38BB5520
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+PBIDesktop      163c-1928	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000020F38BB5520
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Data"           e14-434c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001DBB5E96FE8
+
+Data"           e14-434c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001DBB5E96FE8 ( 0x000001DBAF9E1660)
+
+Data"           e14-434c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001DBAF9E1660
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Data"           e14-434c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001DBAF9E1660
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Data"           e14-434c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001DBAF9E1660
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Data"           e14-434c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001DBAF9E1660
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 1640-3928	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001F6529DA700
+
+Microsoft.Mashu f5c-31fc	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x00000140F5CDA700
+
+Microsoft.Mashu 3fb8-3e8c	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001C4C8B0A420
+
+Microsoft.Mashu 239c-4a8	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000020BBB9EA700
+
+
+Microsoft.Mashu 1e48-3d14	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x00000207BC84A750
+
+Microsoft.Mashu 3088-1f90	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002E4842AA470
+
+Microsoft.Mashu 2028-180c	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002937FAAA470
+
+Microsoft.Mashu 1e48-3d14	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x00000207BC84A750
+
+Microsoft.Mashu 3088-1f90	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002E4842AA470
+
+Microsoft.Mashu 2028-180c	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002937FAAA470
+
+Microsoft.Mashu 1bf8-2254	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001FB7CE2A750
+
+Microsoft.Mashu 1bf8-2254	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001FB7CE2A750
+
+Microsoft.Mashu ad0-2ccc	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000214BF4AF3A0
+
+Microsoft.Mashu ad0-2ccc	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000214BF4AF3A0 ( 0x00000214BD5BA750)
+
+Microsoft.Mashu ad0-2ccc	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000214BD5BA750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu ad0-2ccc	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000214BD5BA750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu ad0-2ccc	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000214BD5BA750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu ad0-2ccc	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000214BD5BA750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2278-bb4	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001031CA07D10
+
+Microsoft.Mashu 2278-bb4	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001031CA07D10 ( 0x000001031A88A470)
+
+Microsoft.Mashu 2278-bb4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001031A88A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2278-bb4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001031A88A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2278-bb4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001031A88A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2278-bb4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001031A88A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3ef0-3118	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000296007BE168
+
+Microsoft.Mashu 3ef0-3118	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000296007BE168 ( 0x0000029671F8A470)
+
+Microsoft.Mashu 3ef0-3118	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000029671F8A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3ef0-3118	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000029671F8A470
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3ef0-3118	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000029671F8A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3ef0-3118	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000029671F8A470
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 42b8-a8c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001C2007C4140
+
+Microsoft.Mashu 42b8-a8c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001C2007C4140 ( 0x000001C27501A750)
+
+Microsoft.Mashu 42b8-a8c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001C27501A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 42b8-a8c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001C27501A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 42b8-a8c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001C27501A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 42b8-a8c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001C27501A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 77c-1700	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001288B5C2B08
+
+Microsoft.Mashu 77c-1700	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001288B5C2B08 ( 0x000001288947A750)
+
+Microsoft.Mashu 77c-1700	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001288947A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 77c-1700	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001288947A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3c1c-26e8	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000188093C4B08
+
+Microsoft.Mashu 77c-1700	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001288947A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3c1c-26e8	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000188093C4B08 ( 0x0000018806F2A750)
+
+Microsoft.Mashu 77c-1700	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001288947A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3c1c-26e8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000018806F2A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3c1c-26e8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000018806F2A750
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3c1c-26e8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000018806F2A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 3c1c-26e8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000018806F2A750
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 405c-1e08	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000221207FD130
+
+Microsoft.Mashu 405c-1e08	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000221207FD130 ( 0x000002211E3FA700)
+
+Microsoft.Mashu 405c-1e08	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002211E3FA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 405c-1e08	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002211E3FA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 405c-1e08	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002211E3FA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 405c-1e08	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002211E3FA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu a24-3f64	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001C508B46E40
+
+Microsoft.Mashu a24-3f64	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001C508B46E40 ( 0x000001C5069AA700)
+
+Microsoft.Mashu a24-3f64	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001C5069AA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 38c4-35f4	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000229007EEE40 ( 0x000002296827A700)
+
+Microsoft.Mashu a24-3f64	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001C5069AA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2324-2f1c	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000294A9DAAE40
+OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu a24-3f64	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001C5069AA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 38c4-35f4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002296827A700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2324-2f1c	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000294A9DAAE40 ( 0x00000294A7CEA700)
+
+Microsoft.Mashu a24-3f64	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001C5069AA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 38c4-35f4	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002296827A700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2324-2f1c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000294A7CEA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 38c4-35f4	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002296827A700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2324-2f1c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000294A7CEA700
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2324-2f1c	ENTER SQLSetEnvAttr 
+		SQLHENV             0x00000294A7CEA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 2324-2f1c	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x00000294A7CEA700
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+Microsoft.Mashu 38c4-ad4	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002296827A700
+
+
+Microsoft.Mashu 2324-2978	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x00000294A7CEA700
+
+Microsoft.Mashu 405c-40c4	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002211E3FA700
+
+Microsoft.Mashu a24-384c	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001C5069AA700
+
+Microsoft.Mashu 38c4-ad4	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002296827A700
+
+Microsoft.Mashu 2324-2978	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x00000294A7CEA700
+
+Microsoft.Mashu 77c-d64	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001288947A750
+
+
+Microsoft.Mashu 42b8-188c	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001C27501A750
+
+Microsoft.Mashu 3c1c-424c	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000018806F2A750
+
+Microsoft.Mashu 77c-d64	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001288947A750
+
+Microsoft.Mashu 2278-2e08	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001031A88A470
+
+Microsoft.Mashu 42b8-188c	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001C27501A750
+
+PBIDesktop      163c-36b0	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000020F38BB5520
+
+PBIDesktop      163c-36b0	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000020F38BB5520
+
+EXCEL           4524-4528	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000015A17236360
+
+EXCEL           4524-4528	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000015A17236360 ( 0x0000015A672D1680)
+
+EXCEL           4524-4528	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000015A672D1680
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+EXCEL           4524-4528	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000015A672D1680
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+EXCEL           4524-4528	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000015A672D1680
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+EXCEL           4524-4528	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000015A672D1680
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             43e4-1f90	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002379E8E5FC8
+
+dde             43e4-1f90	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002379E8E5FC8 ( 0x000002378837DCF0)
+
+dde             43e4-1f90	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002378837DCF0
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             43e4-1f90	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002378837DCF0
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             43e4-1f90	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002378837DCF0
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             43e4-1f90	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002378837DCF0
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             43e4-2bcc	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002378837DCF0
+
+dde             43e4-2bcc	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002378837DCF0
+
+dde             276c-36d8	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001F1E0A1ED38
+
+dde             276c-36d8	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001F1E0A1ED38 ( 0x000001F1BC49D570)
+
+dde             276c-36d8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001F1BC49D570
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             276c-36d8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001F1BC49D570
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             276c-36d8	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001F1BC49D570
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             276c-36d8	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001F1BC49D570
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             276c-4224	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001F1BC49D570
+
+dde             276c-4224	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001F1BC49D570
+
+EXCEL           41d4-4190	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000237A0FD5F20
+
+EXCEL           41d4-4190	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x00000237A0FD5F20 ( 0x0000023787EE2920)
+
+EXCEL           41d4-4190	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000023787EE2920
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+EXCEL           41d4-4190	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000023787EE2920
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+EXCEL           41d4-4190	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000023787EE2920
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+EXCEL           41d4-4190	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000023787EE2920
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+EXCEL           41d4-bd8	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000023787EE2920
+
+EXCEL           41d4-bd8	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000023787EE2920
+
+dde             2ed0-3ce0	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002AD00BA5EA8
+
+dde             2ed0-3ce0	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000002AD00BA5EA8 ( 0x000002AD6893F610)
+
+dde             2ed0-3ce0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002AD6893F610
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             2ed0-3ce0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002AD6893F610
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             2ed0-3ce0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000002AD6893F610
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             2ed0-3ce0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000002AD6893F610
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             2ed0-4708	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002AD6893F610
+
+dde             2ed0-4708	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000002AD6893F610
+
+dde             1500-1570	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001CF80BA60B0
+
+dde             1500-1570	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x000001CF80BA60B0 ( 0x000001CFEA49BEF0)
+
+dde             1500-1570	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001CFEA49BEF0
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             1500-1570	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001CFEA49BEF0
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             1500-1570	ENTER SQLSetEnvAttr 
+		SQLHENV             0x000001CFEA49BEF0
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             1500-1570	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x000001CFEA49BEF0
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             1500-1b78	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001CFEA49BEF0
+
+dde             1500-1b78	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x000001CFEA49BEF0
+
+dde             2fa0-2bf0	ENTER SQLAllocHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000015DB6C55E60
+
+dde             2fa0-2bf0	EXIT  SQLAllocHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000000000000000
+		SQLHANDLE *         0x0000015DB6C55E60 ( 0x0000015DA1F96810)
+
+dde             2fa0-2bf0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000015DA1F96810
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             2fa0-2bf0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000015DA1F96810
+		SQLINTEGER                 200 <SQL_ATTR_ODBC_VERSION>
+		SQLPOINTER                 3 <SQL_OV_ODBC3>
+		SQLINTEGER                  -6 
+
+dde             2fa0-2bf0	ENTER SQLSetEnvAttr 
+		SQLHENV             0x0000015DA1F96810
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             2fa0-2bf0	EXIT  SQLSetEnvAttr  with return code 0 (SQL_SUCCESS)
+		SQLHENV             0x0000015DA1F96810
+		SQLINTEGER                 201 <SQL_ATTR_CONNECTION_POOLING>
+		SQLPOINTER                 2 <SQL_CP_ONE_PER_HENV>
+		SQLINTEGER                  -6 
+
+dde             2fa0-2a00	ENTER SQLFreeHandle 
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000015DA1F96810
+
+dde             2fa0-2a00	EXIT  SQLFreeHandle  with return code 0 (SQL_SUCCESS)
+		SQLSMALLINT                  1 <SQL_HANDLE_ENV>
+		SQLHANDLE           0x0000015DA1F96810
